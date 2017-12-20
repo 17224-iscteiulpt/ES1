@@ -7,3 +7,5 @@ Identificação do número, nome e papel de cada membro do grupo (ex: 12345, Jos
 Identificação da variante do projeto desenvolvida (ex: AntiSpamConfigurationForProfessionalMailbox)
 
 Link para um vídeo no youtube com a demonstração da aplicação final desenvolvida (ex: http://...)
+
+Notas que o grupo entenda relevantes para a análise/avaliação do trabalho
